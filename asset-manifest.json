@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/border-radius-picker/static/css/main.bd36227a.chunk.css",
+    "main.js": "/border-radius-picker/static/js/main.57173d27.chunk.js",
+    "main.js.map": "/border-radius-picker/static/js/main.57173d27.chunk.js.map",
+    "runtime-main.js": "/border-radius-picker/static/js/runtime-main.68da25d8.js",
+    "runtime-main.js.map": "/border-radius-picker/static/js/runtime-main.68da25d8.js.map",
+    "static/js/2.f5bded75.chunk.js": "/border-radius-picker/static/js/2.f5bded75.chunk.js",
+    "static/js/2.f5bded75.chunk.js.map": "/border-radius-picker/static/js/2.f5bded75.chunk.js.map",
+    "index.html": "/border-radius-picker/index.html",
+    "static/css/main.bd36227a.chunk.css.map": "/border-radius-picker/static/css/main.bd36227a.chunk.css.map",
+    "static/js/2.f5bded75.chunk.js.LICENSE.txt": "/border-radius-picker/static/js/2.f5bded75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68da25d8.js",
+    "static/js/2.f5bded75.chunk.js",
+    "static/css/main.bd36227a.chunk.css",
+    "static/js/main.57173d27.chunk.js"
+  ]
+}
