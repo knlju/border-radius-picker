@@ -4,4 +4,6 @@ CSS3 border-radius property value generator for generating natural-looking shape
 
 ### Preview
 
-![Preview link](https://media.giphy.com/media/yAa7mkL9zjixz0ITft/giphy.gif)
+![Preview gif](https://media.giphy.com/media/yAa7mkL9zjixz0ITft/giphy.gif)
+
+Preview [link](https://knlju.github.io/border-radius-picker/).
